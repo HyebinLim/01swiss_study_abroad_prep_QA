@@ -1,4 +1,4 @@
-# 🎓 Study abroad to Switzerland: Preparation Q&A Assistant
+# 🎓 Study abroad to Swiss: Preparation Q&A Assistant
 Ask questions about preparation for studying abroad to Switzerland (RAG)
 
 ## 🗂️ Project overview
