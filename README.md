@@ -7,9 +7,11 @@ Ask questions about preparation for studying abroad to Switzerland (RAG)
 
 ## How to use
 1. 이 프로젝트를 클론합니다.
-2. `swiss_study_abroad.ipynb` 파일을 Google Colab에서 열어주세요.
-3. `query_engine.query()`(맨 하단 코드)를 통해 질문을 입력하고 답변을 받습니다.
-4. 코드를 실행하여 유학준비 관련 궁금증을 해결하세요!
+2. swiss_study_abroad.ipynb 파일을 Google Colab에서 열어주세요.
+3. 실행 도중, OpenAI API 키 입력을 요청하는 메시지가 뜹니다.
+→ 본인의 API 키를 복사해 붙여넣어 주세요.
+→ API 키는 OpenAI 계정 페이지에서 확인할 수 있습니다.
+4. 노트북 맨 아래의 query_engine.query() 코드를 실행해 질문을 입력하면, 답변을 받을 수 있습니다.
 
 ## Question examples
 - 스위스 유학 준비 서류는?
