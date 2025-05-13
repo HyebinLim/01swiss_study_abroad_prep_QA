@@ -1,9 +1,9 @@
 # 🎓Study abroad to Switzerland: Q&A Assistant
-Ask questions about "how to prepare" for studying abroad to Switzerland (RAG)
+Ask questions about "how to prepare" for studying abroad to Switzerland
 
 ## 🗂️ Project overview
 이 프로젝트는 스위스 유학을 준비하는 사람들을 위한 Q&A 봇입니다.  
-블로그에서 얻은 데이터를 바탕으로, 사용자가 궁금한 유학준비 관련 질문에 대해 답변을 제공합니다.  
+블로그에서 얻은 데이터를 바탕으로(RAG), 사용자가 궁금한 유학준비 관련 질문에 대해 답변을 제공합니다.  
 
 ## 🚀 How to use
 1. 이 프로젝트를 클론합니다.
