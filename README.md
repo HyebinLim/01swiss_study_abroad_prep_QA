@@ -1,5 +1,5 @@
-# 🎓 Study abroad to Swiss: Preparation Q&A Assistant
-Ask questions about preparation for studying abroad to Switzerland (RAG)
+# 🎓Study abroad to Switzerland: Q&A Assistant
+Ask questions about "how to prepare" for studying abroad to Switzerland (RAG)
 
 ## 🗂️ Project overview
 이 프로젝트는 스위스 유학을 준비하는 사람들을 위한 Q&A 봇입니다.  
