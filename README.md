@@ -2,8 +2,8 @@
 Ask questions about <ins>preparation</ins> for studying abroad to Switzerland
 
 ## 🗂️ Project overview
-이 프로젝트는 스위스 유학을 <ins>준비</ins>하는 사람들을 위한 Q&A 봇입니다.  
-블로그에서 얻은 데이터를 바탕으로(RAG), 사용자가 궁금한 유학준비 관련 질문에 대해 답변을 제공합니다.  
+이 프로젝트는 스위스 유학을 준비하는 사람들을 위한 Q&A 봇입니다.  
+블로그에서 얻은 데이터를 바탕으로(RAG), 사용자가 궁금한 <ins>유학준비 관련 질문</ins>에 대해 답변을 제공합니다.  
 
 ## 🚀 How to use
 1. 이 프로젝트를 클론합니다.
