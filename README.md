@@ -1,4 +1,4 @@
-# 스위스 유학 준비 Q&A 봇
+# Study abroad to Switzerland: Preparation Q&A Assistant
 Ask questions about preparation for studying abroad to Switzerland (RAG)
 
 ## Project overview
@@ -17,6 +17,7 @@ Ask questions about preparation for studying abroad to Switzerland (RAG)
 - 스위스 유학하면서 쓸 예산을 얼마 정도로 잡았어?
 
 ## Copyright
-본 프로젝트의 모든 내용은 '초코빵(Hyebin Lim)'에 의해 작성된 원본 콘텐츠입니다.
-허락이 없는 사용 및 복제는 금지합니다.
-저작권 관련 사항은 https://blog.naver.com/imyourbest에서 확인해주세요.
+- 본 프로젝트의 모든 내용은 '초코빵(Hyebin Lim)'에 의해 작성된 원본 콘텐츠입니다.
+- 허락이 없는 사용 및 복제는 금지합니다.
+- 저작권 관련 사항은 https://blog.naver.com/imyourbest 에서 확인해주세요.
+Copyright (c) 2025 Hyebin Lim
