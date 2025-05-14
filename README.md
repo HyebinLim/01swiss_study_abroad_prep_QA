@@ -13,7 +13,7 @@ Ask questions about <ins>preparation</ins> for studying abroad to Switzerland
   - API 키는 [OpenAI 계정 페이지](https://platform.openai.com/api-keys)에서 확인할 수 있습니다.
 4. 노트북 맨 아래의 query_engine.query() 코드를 실행해 질문을 입력하면, 답변을 받을 수 있습니다.
 
-## 💬 Question examples
+## 💬 Question examples ---> example.png 참고!
 - 스위스 유학 준비 서류는?
 - 유학을 준비하면서 가장 힘들었던 건 뭐였어?
 - 스위스 유학하면서 쓸 예산을 얼마 정도로 잡았어?
